@@ -1,4 +1,4 @@
-# 👨‍💻 Heitor Lopes Bianchi
+# 👨‍💻 Heitor Bianchi
 
 **Developer - Azure Certified | Spring Framework | Java | APIs REST | Microservices | Kotlin**
 
