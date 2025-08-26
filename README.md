@@ -8,32 +8,19 @@
 
 ## 🚀 Sobre mim
 
-**Desenvolvedor Backend** com certificação **Microsoft Azure** e experiência sólida em **Java, Spring Framework, APIs REST, Microservices, Kotlin, Angular e Python**.  
-Minha trajetória inclui atuação em grandes instituições financeiras e de tecnologia, como **PagBank, F1RST Tecnologia e Santander**.
-
+💻 **Desenvolvedor Backend**
 🎓 **Formado em Sistemas de Informação pela USP** e certificado Microsoft Azure (**AZ-900**).  
 🔍 Interesse em **IA Neuro-simbólica, pesquisa acadêmica e ensino**.
+💼 **Engenheiro de Software — PagBank**
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 🔹 Programação
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" alt="angular" width="50" height="50"/>
-</p>
-
-### 🔹 DevOps & Containers
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/>
-</p>
-
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 ## 📈 Estatísticas 
@@ -43,13 +30,6 @@ Minha trajetória inclui atuação em grandes instituições financeiras e de te
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorel&layout=compact&langs_count=7&theme=gotham"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorel&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
-  
----
-
-## 💼 Atividade Profissional Atual
-
-- **Engenheiro de Software — PagBank**  
-  Desenvolvimento backend, microsserviços e APIs escaláveis.
 
 ---
 
