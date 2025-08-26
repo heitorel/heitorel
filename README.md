@@ -8,10 +8,10 @@
 
 ## 🚀 Sobre mim
 
-💻 **Desenvolvedor Backend**
-🎓 **Formado em Sistemas de Informação pela USP** e certificado Microsoft Azure (**AZ-900**).  
-🔍 Interesse em **IA Neuro-simbólica, pesquisa acadêmica e ensino**.
-💼 **Engenheiro de Software — PagBank**
+- 💻 **Desenvolvedor Backend**
+- 🎓 **Formado em Sistemas de Informação pela USP** e certificado Microsoft Azure (**AZ-900**)
+- 🔍 Interesse em **IA Neuro-simbólica, pesquisa acadêmica e ensino**
+- 💼 **Engenheiro de Software — PagBank**
 
 ---
 
