@@ -12,6 +12,7 @@
 - 🎓 **Formado em Sistemas de Informação pela USP** e certificado Microsoft Azure (**AZ-900**)
 - 🔍 Interesse em **IA Neuro-simbólica, pesquisa acadêmica e ensino**
 - 💼 **Engenheiro de Software — PagBank**
+- 💪 Atleta, 🎮 jogador e 😸 fã de gatos
 
 ---
 
