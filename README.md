@@ -4,21 +4,23 @@
 
 **Developer - Azure Certified | Spring Framework | Java | APIs REST | Microservices | Kotlin**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heitor%20Bianchi-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/heitorbianchi)  [![Email](https://img.shields.io/badge/Email-heitor.lopes.bianchi%40gmail.com-red?logo=gmail&style=flat-square)](mailto:heitor.lopes.bianchi@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-@heitorponcotom-E4405F?logo=instagram&style=flat-square)](https://www.instagram.com/heitorponcotom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heitor%20Bianchi-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/heitorbianchi)  
+[![Email](https://img.shields.io/badge/Email-heitor.lopes.bianchi%40gmail.com-red?logo=gmail&style=flat-square)](mailto:heitor.lopes.bianchi@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-@heitorponcotom-E4405F?logo=instagram&style=flat-square)](https://www.instagram.com/heitorponcotom)
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-- 💻 **Desenvolvedor Backend**
-- 🎓 **Formado em Sistemas de Informação pela USP** e certificado Microsoft Azure (**AZ-900**)
-- 🔍 Interesse em **IA Neuro-simbólica, pesquisa acadêmica e ensino**
-- 💼 **Engenheiro de Software — PagBank**
-- 💪 Atleta, 🎮 jogador e 😸 fã de gatos
+- 💻 **Backend Developer**
+- 🎓 **Graduated in Information Systems at USP** and Microsoft Azure Certified (**AZ-900**)
+- 🔍 Interest in **Neuro-symbolic AI, academic research, and teaching**
+- 💼 **Software Engineer — PagBank**
+- 💪 Athlete, 🎮 gamer, and 😸 cat lover
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -32,9 +34,9 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-
 ---
-## 📈 Estatísticas 
+
+## 📈 GitHub Stats
 
 <div>
 <a href="https://github.com/heitorel">
@@ -44,5 +46,5 @@
 
 ---
 
-✨ Sempre em busca de evolução contínua, obrigado pela visita.
+✨ Always striving for continuous improvement — thanks for visiting!  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heitorel&label=Profile%20views&color=0e75b6&style=flat" alt="heitorel" /> </p>
