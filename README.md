@@ -2,7 +2,7 @@
 
 **Developer - Azure Certified | Spring Framework | Java | APIs REST | Microservices | Kotlin**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heitor%20Bianchi-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/heitorbianchi)  [![Email](https://img.shields.io/badge/Email-heitor.lopes.bianchi%40gmail.com-red?logo=gmail&style=flat-square)](mailto:heitor.lopes.bianchi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heitor%20Bianchi-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/heitorbianchi)  [![Email](https://img.shields.io/badge/Email-heitor.lopes.bianchi%40gmail.com-red?logo=gmail&style=flat-square)](mailto:heitor.lopes.bianchi@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-@heitorponcotom-E4405F?logo=instagram&style=flat-square)](https://www.instagram.com/heitorponcotom)
 
 ---
 
@@ -26,7 +26,7 @@ Minha trajetória inclui atuação em grandes instituições financeiras e de te
 <div>
 <a href="https://github.com/heitorel">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorel&layout=compact&langs_count=7&theme=gotham"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorel&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
   
 ---
