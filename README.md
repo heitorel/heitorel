@@ -8,11 +8,10 @@
 
 ## 🚀 Sobre mim
 
-Sou **Desenvolvedor Backend** com certificação **Microsoft Azure** e experiência sólida em **Java, Spring Framework, APIs REST, Microservices, Kotlin, Angular e Python**.  
+**Desenvolvedor Backend** com certificação **Microsoft Azure** e experiência sólida em **Java, Spring Framework, APIs REST, Microservices, Kotlin, Angular e Python**.  
 Minha trajetória inclui atuação em grandes instituições financeiras e de tecnologia, como **PagBank, F1RST Tecnologia e Santander**.
 
 🎓 **Formado em Sistemas de Informação pela USP** e certificado Microsoft Azure (**AZ-900**).  
-💡 Apaixonado por transformar processos complexos em soluções simples e eficientes.  
 🔍 Interesse em **IA Neuro-simbólica, pesquisa acadêmica e ensino**.
 
 ---
