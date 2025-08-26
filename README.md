@@ -1,4 +1,6 @@
-# 👨‍💻 Heitor Bianchi
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heitorel/heitorel/main/header.png" alt="Heitor Bianchi | Backend Developer" width="100%"/>
+</p>
 
 **Developer - Azure Certified | Spring Framework | Java | APIs REST | Microservices | Kotlin**
 
