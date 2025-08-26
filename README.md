@@ -4,9 +4,7 @@
 
 **Developer - Azure Certified | Spring Framework | Java | APIs REST | Microservices | Kotlin**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heitor%20Bianchi-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/heitorbianchi)  
-[![Email](https://img.shields.io/badge/Email-heitor.lopes.bianchi%40gmail.com-red?logo=gmail&style=flat-square)](mailto:heitor.lopes.bianchi@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-@heitorponcotom-E4405F?logo=instagram&style=flat-square)](https://www.instagram.com/heitorponcotom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heitor%20Bianchi-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/heitorbianchi) [![Email](https://img.shields.io/badge/Email-heitor.lopes.bianchi%40gmail.com-red?logo=gmail&style=flat-square)](mailto:heitor.lopes.bianchi@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-@heitorponcotom-E4405F?logo=instagram&style=flat-square)](https://www.instagram.com/heitorponcotom)
 
 ---
 
