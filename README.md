@@ -25,8 +25,8 @@ Minha trajetória inclui atuação em grandes instituições financeiras e de te
 
 <div>
 <a href="https://github.com/heitorel">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorel&layout=compact&langs_count=7&theme=tokyonight"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorel&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorel&layout=compact&langs_count=7&theme=gotham"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 ---
