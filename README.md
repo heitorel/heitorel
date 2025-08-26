@@ -14,7 +14,7 @@
 - 🎓 **Graduated in Information Systems at USP** and Microsoft Azure Certified (**AZ-900**)
 - 🔍 Interest in **Neuro-symbolic AI, academic research, and teaching**
 - 💼 **Software Engineer — PagBank**
-- 💪 Athlete, 🎮 gamer, and 😸 cat lover
+- 💪 Athlete, 🎮 gamer and 😸 cat lover
 
 ---
 
