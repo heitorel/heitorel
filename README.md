@@ -38,4 +38,5 @@ Minha trajetória inclui atuação em grandes instituições financeiras e de te
 
 ---
 
-✨ Sempre em busca de evolução contínua e contribuição para equipes de alta performance.
+✨ Sempre em busca de evolução contínua, obrigado pela visita.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=heitorel&label=Profile%20views&color=0e75b6&style=flat" alt="heitorel" /> </p>
